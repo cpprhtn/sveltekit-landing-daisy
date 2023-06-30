@@ -5,14 +5,13 @@
 	<div class="hero-overlay bg-opacity-70" />
 	<div class="hero-content text-neutral-content">
 		<div class="z-60 drop-shadow-lg text-center">
-			<div class="mb-5 text-8xl font-semibold">Svelte</div>
-			<div class="mb-5 max-w-sm">
-				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-				quasi. In deleniti eaque aut repudiandae et a id nisi.
+			<div class="mb-5 text-8xl font-semibold">SUSC</div>
+			<div class="mb-5 max-w-sm text-l">
+				Seasonal University study & communication.
 			</div>
 			<div class="flex gap-4 justify-center">
-				<button class="btn btn-primary transition-color duration-300 text-lg">Learn More</button>
-				<button class="btn transition-color duration-300 text-lg">Get Started</button>
+				<button class="btn btn-primary transition-color duration-300 text-lg">Start Join</button>
+				<!-- <button class="btn transition-color duration-300 text-lg"></button> -->
 			</div>
 		</div>
 	</div>

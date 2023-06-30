@@ -1,9 +1,42 @@
 <div class="p-4 xl:p-10 bg-base-300 my-10 rounded-lg">
 	<div class="max-w-lg mx-auto pb-10">
-		<div class="text-3xl font-bold text-center my-5">Instant Insights</div>
-		<div class="text-lg text-center my-5">
-			Voluptate eiusmod quis do aliquip labore esse pariatur excepteur dolore do fugiat sint Lorem
-			commodo ea pariatur.
+		<div class="text-3xl font-bold text-center my-5">참여 동아리</div>
+		<div class="text-lg text-center my-5 border-b-2">
+
+			<table class="table-fixed text-center mx-auto text-xl my-2">
+				<thead>
+				  <tr>
+					<th>대학교</th>
+					<th>동아리</th>
+				  </tr>
+				</thead>
+				<tbody class="text-left">
+				  <tr>
+					<td class="p-4">경북대학교</td>
+					<td class="p-4">KERT</td>
+				  </tr>
+				  <tr>
+					<td class="p-4">경희대학교</td>
+					<td class="p-4">KHLUG</td>
+				  </tr>
+				  <tr>
+					<td class="p-4">동아대학교</td>
+					<td class="p-4">MLP</td>
+				  </tr>
+				  <tr>
+					<td class="p-4">서강대학교</td>
+					<td class="p-4">보안 동아리</td>
+				  </tr>
+				  <tr>
+					<td class="p-4">한국해양대학교</td>
+					<td class="p-4">Bet A</td>
+				  </tr>
+				  <tr>
+					<td class="p-4">한양대학교</td>
+					<td class="p-4">자람</td>
+				  </tr>
+				</tbody>
+			  </table>
 		</div>
 	</div>
 
@@ -23,9 +56,9 @@
 					/></svg
 				>
 			</div>
-			<div class="stat-title">Total Projects</div>
-			<div class="stat-value text-primary">182</div>
-			<div class="stat-desc">3% more than last month</div>
+			<div class="stat-title">Total Members</div>
+			<div class="stat-value text-primary">142</div>
+			<!-- <div class="stat-desc">3% more than last month</div> -->
 		</div>
 
 		<div class="stat">
@@ -43,12 +76,12 @@
 					/></svg
 				>
 			</div>
-			<div class="stat-title">Connections</div>
-			<div class="stat-value text-primary-focus">2.6M</div>
-			<div class="stat-desc">21% more than last month</div>
+			<div class="stat-title">Number of participating universities</div>
+			<div class="stat-value text-primary-focus">6</div>
+			<!-- <div class="stat-desc">21% more than last month</div> -->
 		</div>
 
-		<div class=" stat lg:hidden xl:stat">
+		<!-- <div class=" stat lg:hidden xl:stat">
 			<div class="stat-figure text-secondary">
 				<div class="avatar online w-12">
 					<img
@@ -76,6 +109,6 @@
 			<div class="stat-title">Engineering</div>
 			<div class="stat-value text-secondary">86%</div>
 			<div class="stat-desc">79 commits across 14 repositories.</div>
-		</div>
+		</div> -->
 	</div>
 </div>

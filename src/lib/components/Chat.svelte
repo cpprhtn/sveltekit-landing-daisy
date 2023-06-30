@@ -1,11 +1,12 @@
 <div class=" bg-base-300 p-4 xl:p-10 rounded-lg">
 	<div class="max-w-lg mx-auto pb-10">
-		<div class="text-3xl font-bold text-center my-5">Transferable Badges</div>
+		<div class="text-3xl font-bold text-center my-5">운영진 소개</div>
 		<div class="text-lg text-center my-5">
 			Voluptate eiusmod quis do aliquip labore esse pariatur excepteur dolore do fugiat sint
 			officia. Commodo non est ullamco consectetur dolore excepteur.
 		</div>
 	</div>
+	
 
 	<div class="flex flex-col lg:flex-row justify-center gap-5 xl:gap-10">
 		<div class="flex flex-col justify-between bg-base-100 rounded-lg w-full shadow-lg">
@@ -21,7 +22,7 @@
 						</div>
 					</div>
 					<div class="chat-header">
-						Jack Sparrow
+						이준원
 						<time class="text-xs opacity-50">12:45</time>
 					</div>
 					<div class="chat-bubble">Hello world</div>
@@ -39,7 +40,7 @@
 						</div>
 					</div>
 					<div class="chat-header">
-						Marge Simpson
+						추영욱
 						<time class="text-xs opacity-50">12:48</time>
 					</div>
 					<div class="chat-bubble">You were the Chosen One!</div>

@@ -6,7 +6,7 @@
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center max-w-lg">
-			<h1 class="text-3xl font-bold">Improve Cross-team Connections</h1>
+			<h1 class="text-3xl font-bold">전문 분야별 세미나</h1>
 			<p class="py-6">
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
@@ -24,7 +24,7 @@
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center max-w-lg">
-			<h1 class="text-3xl font-bold">Foster Collaborations</h1>
+			<h1 class="text-3xl font-bold">현업 전문가 멘토링</h1>
 			<p class="py-6">
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
@@ -42,7 +42,7 @@
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center max-w-lg">
-			<h1 class="text-3xl font-bold">Better Developer Experience</h1>
+			<h1 class="text-3xl font-bold">프로젝트 및 공모전</h1>
 			<p class="py-6">
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
@@ -60,7 +60,7 @@
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center max-w-lg">
-			<h1 class="text-3xl font-bold">Improved Modeling</h1>
+			<h1 class="text-3xl font-bold">논문 리딩</h1>
 			<p class="py-6">
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
