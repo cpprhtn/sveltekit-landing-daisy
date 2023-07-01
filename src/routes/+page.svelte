@@ -2,7 +2,7 @@
 	import Carousel from '$lib/components/Carousel.svelte';
 	import Chat from '$lib/components/Chat.svelte';
 	import Hero from '$lib/components/Hero.svelte';
-	import Mobile from '$lib/components/Mobile.svelte';
+	// import Mobile from '$lib/components/Mobile.svelte';
 	import Stats from '$lib/components/Stats.svelte';
 	import HeroCards from '$lib/components/HeroCards.svelte';
 	import Links from '$lib/components/Links.svelte';
@@ -29,9 +29,9 @@
 			<HeroCards />
 		</div>
 
-		<div class="my-10">
+		<!-- <div class="my-10">
 			<Mobile />
-		</div>
+		</div> -->
 
 		<div class="my-10">
 			<Links />

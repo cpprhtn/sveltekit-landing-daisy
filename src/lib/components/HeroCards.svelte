@@ -7,10 +7,10 @@
 		/>
 		<div class="text-center max-w-lg">
 			<h1 class="text-3xl font-bold">전문 분야별 세미나</h1>
-			<p class="py-6">
+			<!-- <p class="py-6">
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
-			</p>
+			</p> -->
 			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
 	</div>
@@ -25,10 +25,10 @@
 		/>
 		<div class="text-center max-w-lg">
 			<h1 class="text-3xl font-bold">현업 전문가 멘토링</h1>
-			<p class="py-6">
+			<!-- <p class="py-6">
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
-			</p>
+			</p> -->
 			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
 	</div>
@@ -43,10 +43,10 @@
 		/>
 		<div class="text-center max-w-lg">
 			<h1 class="text-3xl font-bold">프로젝트 및 공모전</h1>
-			<p class="py-6">
+			<!-- <p class="py-6">
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
-			</p>
+			</p> -->
 			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
 	</div>
@@ -59,12 +59,12 @@
 			src="https://images.unsplash.com/photo-1590859808308-3d2d9c515b1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1748&q=80"
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
-		<div class="text-center max-w-lg">
+		<div class="text-center w-full">
 			<h1 class="text-3xl font-bold">논문 리딩</h1>
-			<p class="py-6">
+			<!-- <p class="py-6">
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
-			</p>
+			</p> -->
 			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
 	</div>

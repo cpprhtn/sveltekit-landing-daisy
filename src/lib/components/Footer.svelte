@@ -13,11 +13,12 @@
 			/></svg
 		>
 		<p class="font-bold">
-			Company Name. <br />Company Tagline
+			SUSC <br />
+			<!-- Seasonal University study & communication -->
 		</p>
-		<p>Copyright © 2023 - All right reserved</p>
+		<p>Copyright © 2023 - design by cpprhtn</p>
 	</div>
-	<div>
+	<!-- <div>
 		<div class="grid grid-flow-col gap-4">
 			<a href="/"
 				><svg
@@ -56,5 +57,5 @@
 				></a
 			>
 		</div>
-	</div>
+	</div> -->
 </footer>
