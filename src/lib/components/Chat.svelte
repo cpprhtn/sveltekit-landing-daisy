@@ -1,10 +1,10 @@
 <div class=" bg-base-300 p-4 xl:p-10 rounded-lg">
 	<div class="max-w-lg mx-auto pb-10">
 		<div class="text-3xl font-bold text-center my-5">운영진 소개</div>
-		<div class="text-lg text-center my-5">
+		<!-- <div class="text-lg text-center my-5">
 			Voluptate eiusmod quis do aliquip labore esse pariatur excepteur dolore do fugiat sint
 			officia. Commodo non est ullamco consectetur dolore excepteur.
-		</div>
+		</div> -->
 	</div>
 	
 
